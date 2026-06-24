@@ -1,0 +1,6 @@
+{
+  "name": "Sportzfy Stream Sandbox",
+  "description": "An interactive sports streaming sandbox, live score simulation, and secure React Native WebView configuration generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
